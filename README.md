@@ -13,7 +13,7 @@ Production-oriented e-commerce system built from scratch without frameworks. Cov
 
 **Stack:** PHP · MySQL · JavaScript · jQuery · Apache
 
-🔗 [Live Demo](https://genovatest.ddns.net)
+🔗 [View Repository](https://github.com/Sunnah25/fullstack-ecommerce-web)
 
 ---
 
